@@ -31,8 +31,8 @@ This is set-up manual for unist racecar.
 
 ## 4. Get source code in your catkin_ws dir(/home/user/catkin_ws/src/) and build
     cd ~/catkin_ws/src/
-    git clone https://github.com/JEONGHA-SHIN/racecar_ws.git
-    git clone https://github.com/JEONGHA-SHIN/ydlidar_ros-X2.git
+    git clone https://github.com/UNIST-STEM/racecar_ws.git
+    git clone https://github.com/YDLIDAR/ydlidar_ros.git
     cd ~/catkin_ws && catkin_make
 
 
